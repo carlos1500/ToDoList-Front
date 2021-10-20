@@ -88,5 +88,4 @@ const Cadastro = (props) => {
     )
     }
     
-    ]
     export default Cadastro
