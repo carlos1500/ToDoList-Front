@@ -15,7 +15,7 @@ const Cadastro = (props) => {
     
         const tarefas = {
         tarefa,
-        etiqueta: parseInt(etiqueta),
+        etiqueta,
         prioridade,
         status
         }
